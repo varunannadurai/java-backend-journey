@@ -4,3 +4,5 @@ take input and return value
 to the user
 
 submit data into database
+
+retrive the data from the database
