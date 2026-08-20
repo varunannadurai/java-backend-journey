@@ -6,3 +6,7 @@ to the user
 submit data into database
 
 retrive the data from the database
+
+git diff - the command recall
+
+this is the goal of this text
